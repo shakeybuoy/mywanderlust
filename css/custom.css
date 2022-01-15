@@ -1,0 +1,14 @@
+.bg-One {
+  background: url("https://da8qcmjpujrcg.cloudfront.net/media/marketplace/images/139/LRM_EXPORT_47488826497445_20191112_181848280_t.jpeg");
+  height: 100%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.bg-Two {
+  background: url("https://da8qcmjpujrcg.cloudfront.net/media/marketplace/images/139/LRM_EXPORT_47052309625893_20191112_181131763_t.jpeg");
+  height: 100%;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
